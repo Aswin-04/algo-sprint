@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "algo-sprint",
   "private": true,
   "scripts": {
     "build": "turbo run build",

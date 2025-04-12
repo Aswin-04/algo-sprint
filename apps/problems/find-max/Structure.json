@@ -3,16 +3,8 @@
   "returnType": "int",
   "parameters": [
     {
-      "name": "a",
+      "name": "arr",
       "type": "array<int>"
-    },
-    {
-      "name": "b",
-      "type": "int"
-    },
-    {
-      "name": "c",
-      "type": "int"
     }
   ]
 }

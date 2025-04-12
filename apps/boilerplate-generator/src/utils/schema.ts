@@ -20,3 +20,4 @@ export const problemStructureSchema = z.object({
 }) 
 
 export type ProblemStructureType = z.infer<typeof problemStructureSchema>
+export type ParamType = ProblemStructureType['parameters'][number]

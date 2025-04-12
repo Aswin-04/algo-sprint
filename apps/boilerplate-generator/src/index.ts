@@ -1,3 +1,3 @@
-import generateUserTemplate from "./generateUserTemplate";
+import BoilerplateGenerator from "./boilerplateGenerator";
 
-generateUserTemplate()
+const generator = new BoilerplateGenerator().run()

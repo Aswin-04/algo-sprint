@@ -1,8 +1,8 @@
 {
   "problemSlug": "find-max",
   "lang": {
-    "cpp": "class Solution {\npublic:\n    int findMax(vector<int> a, int b, int c) {\n\n    }\n};",
-    "java": "import java.util.*;\n\npublic static int findMax(int[] a, int b, int c){\n\n}",
-    "python": "class Solution:\n    def findMax(List[int] a, int b, int c) -> int:\n\n    "
+    "cpp": "class Solution {\npublic:\n    int findMax(vector<int> arr) {\n\n    }\n};",
+    "java": "class Solution {\n    public static int findMax(int[] arr) {\n\n    }\n}",
+    "python": "class Solution:\n    def findMax(List[int] arr) -> int:\n\n    "
   }
 }
